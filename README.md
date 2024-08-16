@@ -26,6 +26,7 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
 		<td>
   <img width="250" height="433"  src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20cadastrar.png"><br>
 		</td>
+		<br>
 		<td>
   <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20cadastrar.png"><br>
 		</td>
@@ -34,6 +35,7 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
 		<td>
   <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20login.png"><br>
 		</td>
+				<br>
 		<td>
   <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20identifica%C3%A7%C3%A3o.png"><br>
 		</td>
@@ -42,6 +44,7 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
 		<td>
   <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20termos%20de%20uso%201.png"><br>
 		</td>
+  		<br>
 		<td>
   <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20termos%20de%20uso%202.png"><br>
 		</td>
@@ -50,6 +53,7 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
 		<td>
   <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20atualizar%20responsaveis.png"><br>
 		</td>
+	    		<br>
 		<td>
   <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20editar%20dados.png">
 		</td>
