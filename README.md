@@ -21,14 +21,14 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
 <div align="center">
   
   <h4>Alguns Layouts do Site:</h4>
-  <img width="500" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20cadastrar.png">
-  <img width="500" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20cadastrar.png">
-  <img width="500" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20login.png">
-  <img width="500" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20identifica%C3%A7%C3%A3o.png">
-  <img width="500" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20termos%20de%20uso%201.png">
-  <img width="500" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20termos%20de%20uso%202.png">
-  <img width="500" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20atualizar%20responsaveis.png">
-  <img width="500" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20editar%20dados.png">
+  <img width="250" height="433"  src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20cadastrar.png"><br>
+  <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20cadastrar.png"><br>
+  <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20login.png"><br>
+  <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20identifica%C3%A7%C3%A3o.png"><br>
+  <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20termos%20de%20uso%201.png"><br>
+  <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20termos%20de%20uso%202.png"><br>
+  <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20atualizar%20responsaveis.png"><br>
+  <img width="250" height="433" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20editar%20dados.png">
 
 </div>
 
