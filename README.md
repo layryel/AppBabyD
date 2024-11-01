@@ -23,7 +23,7 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
 
 <img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/95148ff3b8ce9bf2fff47ad8d190e3d77469b8bc/README/tela%20-%20iniciar.png">
 <img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/7e6677a50281d653c9d9088cc3059c8341e4e91d/README/tela%20-%20cadastrar.png">
-<img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20login.png">
+<img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/login.png">
 <img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20identifica%C3%A7%C3%A3o.png">
 <img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20termos%20de%20uso%201.png">
 <img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20termos%20de%20uso%202.png">
